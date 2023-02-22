@@ -29,5 +29,8 @@ a {
     color: rgb(44, 182, 44);
 }
 .height{
-    height: 55px;
+    height: 45px;
+}
+.front{
+    margin-top: -10px;
 }
